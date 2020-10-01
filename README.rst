@@ -1,7 +1,7 @@
 django-ajax-search
 ===================
 
-A customizable AJAX-powered search for Django.
+An amazing customizable AJAX-powered search for Django.
 
 Features
 -----------------------------------
